@@ -5,16 +5,20 @@ VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encryption_Trainer", "Encryption_Trainer.csproj", "{AB5BB850-8285-405D-A0E3-43EFA8030E7E}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EncSuite_Setup", "Installer\Installer.vdproj", "{9ECD3CF6-983D-4D70-8FD4-6D458A9222AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AB5BB850-8285-405D-A0E3-43EFA8030E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AB5BB850-8285-405D-A0E3-43EFA8030E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB5BB850-8285-405D-A0E3-43EFA8030E7E}.Debug|Any CPU.ActiveCfg = Release|Any CPU
 		{AB5BB850-8285-405D-A0E3-43EFA8030E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB5BB850-8285-405D-A0E3-43EFA8030E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ECD3CF6-983D-4D70-8FD4-6D458A9222AF}.Debug|Any CPU.ActiveCfg = Release
+		{9ECD3CF6-983D-4D70-8FD4-6D458A9222AF}.Debug|Any CPU.Build.0 = Release
+		{9ECD3CF6-983D-4D70-8FD4-6D458A9222AF}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

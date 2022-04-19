@@ -15,16 +15,44 @@ This repository contains:
 
 Standard Readme is designed for open source libraries. Although it’s [historically](#background) made for Node and npm projects, it also applies to libraries in other languages and package managers.
 
-FOLDER STRUCTURE:
+```
+<!--- THIS IS A COMMENT-->
 
-build
+<!---
+FOLDER STRUCTURE: 
+
+build 
 docs
 src
 test
 install
+LICENSE
 README
 
-```
+Required:
+
+    project name
+    project description
+    table of contents
+    installation instructions
+    usage instructions
+    license
+
+
+Properly formatted
+
+    headers
+    emphasized text
+    inline code
+    ordered and numbered lists
+    hyperlinks
+
+- all necessary source files are included , dependencies are hyperlinked
+- Source files, Testing, Documentation, and License Information all have their separate folders
+
+-->
+
+
 
 ## Table of Contents
 

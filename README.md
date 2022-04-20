@@ -60,6 +60,7 @@ Properly formatted
 - [Install](#install)
 - [Usage](#usage)
 - [Maintainers](#maintainers)
+- [License](#license)
 
 
 ## Background
@@ -108,5 +109,9 @@ $ standard-readme-spec
 ## Maintainers
 
 [@KCMac89](https://github.com/KCMac89).
+
+## License
+
+
 
 

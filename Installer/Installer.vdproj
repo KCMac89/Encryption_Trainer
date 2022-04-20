@@ -15,7 +15,7 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_40F4F8D97B774A2AB8680A13DF181ED4"
+        "MsmKey" = "8:_2BD4639CE5B6488CBA8C9FF3F1AE9FAB"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -142,9 +142,9 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_40F4F8D97B774A2AB8680A13DF181ED4"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2BD4639CE5B6488CBA8C9FF3F1AE9FAB"
             {
-            "SourcePath" = "8:..\\Pictures\\Enc_icon.ico"
+            "SourcePath" = "8:..\\src\\Pictures\\Enc_icon.ico"
             "TargetName" = "8:Enc_icon.ico"
             "Tag" = "8:"
             "Folder" = "8:_B53683962FA748EA8BBB7A1DF7DC72CB"
@@ -339,21 +339,7 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_06354C5BD6324FB39B9EB1E88DA9C01E"
-            {
-            "Name" = "8:Encryption Suite"
-            "Arguments" = "8:"
-            "Description" = "8:"
-            "ShowCmd" = "3:1"
-            "IconIndex" = "3:0"
-            "Transitive" = "11:FALSE"
-            "Target" = "8:_4C2DDAA35C1B47929ACAA2230BC1EDCA"
-            "Folder" = "8:_5E0D5A9C9957481DA946EDC47E869452"
-            "WorkingFolder" = "8:_B53683962FA748EA8BBB7A1DF7DC72CB"
-            "Icon" = "8:_40F4F8D97B774A2AB8680A13DF181ED4"
-            "Feature" = "8:"
-            }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_B07BE92CFFA945918AD319C976EA448B"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_1CD94E34448443EF96EFBECCC0D8BF39"
             {
             "Name" = "8:EncSuite"
             "Arguments" = "8:"
@@ -364,10 +350,24 @@
             "Target" = "8:_4C2DDAA35C1B47929ACAA2230BC1EDCA"
             "Folder" = "8:_B53683962FA748EA8BBB7A1DF7DC72CB"
             "WorkingFolder" = "8:_B53683962FA748EA8BBB7A1DF7DC72CB"
-            "Icon" = "8:_40F4F8D97B774A2AB8680A13DF181ED4"
+            "Icon" = "8:_2BD4639CE5B6488CBA8C9FF3F1AE9FAB"
             "Feature" = "8:"
             }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_C505E7A484D3485C9132D3E37ABDBC5C"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_9669F730483D4C1AA5701783D80BC79D"
+            {
+            "Name" = "8:Encryption Suite"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_4C2DDAA35C1B47929ACAA2230BC1EDCA"
+            "Folder" = "8:_5E0D5A9C9957481DA946EDC47E869452"
+            "WorkingFolder" = "8:_B53683962FA748EA8BBB7A1DF7DC72CB"
+            "Icon" = "8:_2BD4639CE5B6488CBA8C9FF3F1AE9FAB"
+            "Feature" = "8:"
+            }
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_A4EEB5EF56BE46268C573880BB580BED"
             {
             "Name" = "8:Encryption Suite"
             "Arguments" = "8:"
@@ -378,7 +378,7 @@
             "Target" = "8:_4C2DDAA35C1B47929ACAA2230BC1EDCA"
             "Folder" = "8:_120D55B2135640BD904B4D1B98260D60"
             "WorkingFolder" = "8:_B53683962FA748EA8BBB7A1DF7DC72CB"
-            "Icon" = "8:_40F4F8D97B774A2AB8680A13DF181ED4"
+            "Icon" = "8:_2BD4639CE5B6488CBA8C9FF3F1AE9FAB"
             "Feature" = "8:"
             }
         }

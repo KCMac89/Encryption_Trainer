@@ -107,6 +107,6 @@ Encryption types currently implemented include:
 
 ## License
 
-[MIT](LICENSE) © Casey McCrimmon
+[MIT](docs/LICENSE) © Casey McCrimmon
 
 

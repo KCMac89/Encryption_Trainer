@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encryption_Trainer", "Encry
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EncSuite_Setup", "Installer\Installer.vdproj", "{9ECD3CF6-983D-4D70-8FD4-6D458A9222AF}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EncryptionSuite_Setup", "install\EncryptionSuite_Setup\EncryptionSuite_Setup.vdproj", "{12ECBD7F-1DE2-44D2-A818-365B46EF528C}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EncryptionSuite_Setup", "install\EncryptionSuite_Setup.vdproj", "{E5ECB1D3-B160-460C-B591-E88F6A83846C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,8 +21,10 @@ Global
 		{AB5BB850-8285-405D-A0E3-43EFA8030E7E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9ECD3CF6-983D-4D70-8FD4-6D458A9222AF}.Debug|Any CPU.ActiveCfg = Release
 		{9ECD3CF6-983D-4D70-8FD4-6D458A9222AF}.Release|Any CPU.ActiveCfg = Release
-		{12ECBD7F-1DE2-44D2-A818-365B46EF528C}.Debug|Any CPU.ActiveCfg = Release
-		{12ECBD7F-1DE2-44D2-A818-365B46EF528C}.Release|Any CPU.ActiveCfg = Release
+		{E5ECB1D3-B160-460C-B591-E88F6A83846C}.Debug|Any CPU.ActiveCfg = Debug
+		{E5ECB1D3-B160-460C-B591-E88F6A83846C}.Debug|Any CPU.Build.0 = Debug
+		{E5ECB1D3-B160-460C-B591-E88F6A83846C}.Release|Any CPU.ActiveCfg = Release
+		{E5ECB1D3-B160-460C-B591-E88F6A83846C}.Release|Any CPU.Build.0 = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

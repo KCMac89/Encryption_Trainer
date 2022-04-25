@@ -72,7 +72,7 @@ This program was created in 2022. Its purpose is to teach about and demonstrate 
 
 ## Install
 
-To install this program navigate to the Installer folder and then download either the **Installer.msi** file or the **setup.exe** file. Then follow the instructions for installation.
+To install this program navigate to the Installer folder and then download either the ***Installer.msi*** file or the ***setup.exe*** file. Then follow the instructions for installation.
 
 ```sh
 Installer/Release/
@@ -82,7 +82,7 @@ Installer/Release/
 
 ## Usage
 
-After installing the program, either use  the created shortcuts or find the **.exe** file to run it. you can use the GUI to navigate to the relevant sections.
+After installing the program, either use  the created shortcuts or find the ***.exe*** file to run it. you can use the GUI to navigate to the relevant sections.
 This program has the following sections:
 
 1. File Encryption

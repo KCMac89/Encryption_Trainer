@@ -8,9 +8,9 @@ This project is a Windows Forms application made using C#.
 ```
 This repository contains:
 
-1. Documentation including models and license files
+1. Documentation 
 2. The source code files 
-3. Test case files
+3. Test files
 4. Install files
 5. README file
 
@@ -72,7 +72,7 @@ This program was created in 2022. Its purpose is to teach about and demonstrate 
 
 ## Install
 
-To install this program navigate to the Installer folder and then download either the Installer.msi file or the setup.exe file. Then follow the instructions for installation.
+To install this program navigate to the Installer folder and then download either the **Installer.msi** file or the **setup.exe** file. Then follow the instructions for installation.
 
 ```sh
 Installer/Release/
@@ -82,7 +82,7 @@ Installer/Release/
 
 ## Usage
 
-After installing the program, you can use the GUI to navigate to the relevant sections.
+After installing the program, either use  the created shortcuts or find the **.exe** file to run it. you can use the GUI to navigate to the relevant sections.
 This program has the following sections:
 
 1. File Encryption
@@ -107,6 +107,6 @@ Encryption types currently implemented include:
 
 ## License
 
-[MIT](docs/LICENSE) © Casey McCrimmon
+[MIT](LICENSE) © Casey McCrimmon
 
 

@@ -15,13 +15,13 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_6094220520FF4709A2F7A4B34F74E1C1"
+        "MsmKey" = "8:_977731845D37458193A5B21696DE350D"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_977731845D37458193A5B21696DE350D"
+        "MsmKey" = "8:_D3E3B43C5E7F42938A0B0F3F321C76FC"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -142,9 +142,9 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6094220520FF4709A2F7A4B34F74E1C1"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D3E3B43C5E7F42938A0B0F3F321C76FC"
             {
-            "SourcePath" = "8:..\\..\\src\\Pictures\\Enc_icon.ico"
+            "SourcePath" = "8:..\\src\\Pictures\\Enc_icon.ico"
             "TargetName" = "8:Enc_icon.ico"
             "Tag" = "8:"
             "Folder" = "8:_DC70C9F7A2124B2D88B3FD4CC0CECD13"
@@ -339,7 +339,7 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_217E3884FD714FECB93A4C9916FB0DEB"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_4850CDDBD4D847A999A1B8F7529A06B0"
             {
             "Name" = "8:Encryption Suite"
             "Arguments" = "8:"
@@ -350,10 +350,24 @@
             "Target" = "8:_977731845D37458193A5B21696DE350D"
             "Folder" = "8:_B4B1F0537FD74FEB9F6267ABE7B46A5D"
             "WorkingFolder" = "8:_DC70C9F7A2124B2D88B3FD4CC0CECD13"
-            "Icon" = "8:_6094220520FF4709A2F7A4B34F74E1C1"
+            "Icon" = "8:_D3E3B43C5E7F42938A0B0F3F321C76FC"
             "Feature" = "8:"
             }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_C821EF371206453392C02998900BD29F"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_697C0C95A2914A97995D9B7B1F8EC9E3"
+            {
+            "Name" = "8:EncSuite"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_977731845D37458193A5B21696DE350D"
+            "Folder" = "8:_DC70C9F7A2124B2D88B3FD4CC0CECD13"
+            "WorkingFolder" = "8:_DC70C9F7A2124B2D88B3FD4CC0CECD13"
+            "Icon" = "8:_D3E3B43C5E7F42938A0B0F3F321C76FC"
+            "Feature" = "8:"
+            }
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_8F428DFD1736402093C8C38A96896921"
             {
             "Name" = "8:Encryption Suite"
             "Arguments" = "8:"
@@ -364,21 +378,7 @@
             "Target" = "8:_977731845D37458193A5B21696DE350D"
             "Folder" = "8:_42B587E0E850480499DDDFFCE1AF69E3"
             "WorkingFolder" = "8:_DC70C9F7A2124B2D88B3FD4CC0CECD13"
-            "Icon" = "8:_6094220520FF4709A2F7A4B34F74E1C1"
-            "Feature" = "8:"
-            }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_DF8ADE4BADE54C188EA87A0AFE9021D6"
-            {
-            "Name" = "8:Enc_Suite"
-            "Arguments" = "8:"
-            "Description" = "8:"
-            "ShowCmd" = "3:1"
-            "IconIndex" = "3:0"
-            "Transitive" = "11:FALSE"
-            "Target" = "8:_977731845D37458193A5B21696DE350D"
-            "Folder" = "8:_DC70C9F7A2124B2D88B3FD4CC0CECD13"
-            "WorkingFolder" = "8:_DC70C9F7A2124B2D88B3FD4CC0CECD13"
-            "Icon" = "8:_6094220520FF4709A2F7A4B34F74E1C1"
+            "Icon" = "8:_D3E3B43C5E7F42938A0B0F3F321C76FC"
             "Feature" = "8:"
             }
         }

@@ -82,7 +82,7 @@ Installer/Release/
 
 ## Usage
 
-After installing the program, either use  the created shortcuts or find the ***.exe*** file to run it. you can use the GUI to navigate to the relevant sections.
+After installing the program, either use  the created shortcuts or find the ***.exe*** file to run it. You can use the GUI to navigate to the relevant sections.
 This program has the following sections:
 
 1. File Encryption

@@ -72,7 +72,7 @@ This program was created in 2022. Its purpose is to teach about and demonstrate 
 
 ## Install
 
-To install this program navigate to the Installer folder and then download either the ***Installer.msi*** file or the ***setup.exe*** file. Then follow the instructions for installation.
+To install this program navigate to the install/Release folder and then download either the ***EncryptionSuite_Setup.msi*** file or the ***setup.exe*** file. Then follow the instructions for installation.
 
 ```sh
 Installer/Release/

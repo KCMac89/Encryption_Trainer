@@ -125,11 +125,11 @@ namespace Encryption_Trainer
             // 
             // diagram_pic
             // 
-            this.diagram_pic.Image = global::Encryption_Trainer.Properties.Resources.des_structure;
+            this.diagram_pic.Image = global::Encryption_Trainer.src.Properties.Resources.des_structure;
             this.diagram_pic.Location = new System.Drawing.Point(12, 88);
             this.diagram_pic.Name = "diagram_pic";
             this.diagram_pic.Size = new System.Drawing.Size(577, 440);
-            this.diagram_pic.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.diagram_pic.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.diagram_pic.TabIndex = 102;
             this.diagram_pic.TabStop = false;
             this.diagram_pic.Visible = false;

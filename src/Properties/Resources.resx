@@ -118,14 +118,14 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Vignere_key_length" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Pictures\Vignere_key_length.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="security-aes_design1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Pictures\security-aes_design.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ES_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Pictures\ES_logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="security-aes_design1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Pictures\security-aes_design.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="V_cipher_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Pictures\V_cipher_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="des_structure" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Pictures\des_structure.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -133,10 +133,22 @@
   <data name="V_cipher_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Pictures\V_cipher_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="security-aes_design2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Pictures\security-aes_design.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vignere_key_length" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Pictures\Vignere_key_length.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="otp" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Pictures\otp.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="des_structure1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Pictures\des_structure.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="security-aes_design" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Pictures\security-aes_design.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vignere_key_length1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Pictures\Vignere_key_length.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

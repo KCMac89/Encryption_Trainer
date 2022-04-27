@@ -108,7 +108,7 @@ namespace Encryption_Trainer
             // 
             // diagram_pic
             // 
-            this.diagram_pic.Image = global::Encryption_Trainer.src.Properties.Resources.security_aes_design;
+            this.diagram_pic.Image = global::Encryption_Trainer.src.Properties.Resources.security_aes_design2;
             this.diagram_pic.Location = new System.Drawing.Point(12, 98);
             this.diagram_pic.Name = "diagram_pic";
             this.diagram_pic.Size = new System.Drawing.Size(569, 439);

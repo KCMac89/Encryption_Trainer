@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Encryption_Trainer.Properties {
+namespace Encryption_Trainer.src.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace Encryption_Trainer.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Encryption_Trainer.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Encryption_Trainer.src.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -66,6 +66,16 @@ namespace Encryption_Trainer.Properties {
         internal static System.Drawing.Bitmap des_structure {
             get {
                 object obj = ResourceManager.GetObject("des_structure", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap des_structure1 {
+            get {
+                object obj = ResourceManager.GetObject("des_structure1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,6 +123,16 @@ namespace Encryption_Trainer.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap security_aes_design2 {
+            get {
+                object obj = ResourceManager.GetObject("security-aes_design2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap V_cipher_1 {
             get {
                 object obj = ResourceManager.GetObject("V_cipher_1", resourceCulture);
@@ -123,9 +143,29 @@ namespace Encryption_Trainer.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap V_cipher_11 {
+            get {
+                object obj = ResourceManager.GetObject("V_cipher_11", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Vignere_key_length {
             get {
                 object obj = ResourceManager.GetObject("Vignere_key_length", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Vignere_key_length1 {
+            get {
+                object obj = ResourceManager.GetObject("Vignere_key_length1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

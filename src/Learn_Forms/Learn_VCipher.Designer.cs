@@ -95,7 +95,7 @@ namespace Encryption_Trainer
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Image = global::Encryption_Trainer.src.Properties.Resources.V_cipher_1;
+            this.pictureBox2.Image = global::Encryption_Trainer.src.Properties.Resources.V_cipher_11;
             this.pictureBox2.Location = new System.Drawing.Point(12, 298);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(263, 251);
@@ -105,7 +105,7 @@ namespace Encryption_Trainer
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::Encryption_Trainer.src.Properties.Resources.Vignere_key_length;
+            this.pictureBox1.Image = global::Encryption_Trainer.src.Properties.Resources.Vignere_key_length1;
             this.pictureBox1.Location = new System.Drawing.Point(281, 298);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(297, 251);

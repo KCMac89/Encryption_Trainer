@@ -125,7 +125,7 @@ namespace Encryption_Trainer
             // 
             // diagram_pic
             // 
-            this.diagram_pic.Image = global::Encryption_Trainer.src.Properties.Resources.des_structure;
+            this.diagram_pic.Image = global::Encryption_Trainer.src.Properties.Resources.des_structure1;
             this.diagram_pic.Location = new System.Drawing.Point(12, 88);
             this.diagram_pic.Name = "diagram_pic";
             this.diagram_pic.Size = new System.Drawing.Size(577, 440);
